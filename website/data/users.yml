@@ -1,209 +1,336 @@
 - caption: Facebook
+  alexa: 3
   image: /images/users/facebook-200x100.png
   greyImage: /images/users/used_by_facebook.svg
   infoLink: https://facebook.com
   pinned: true
+
 - caption: React
+  alexa: 6518
   image: /images/users/react-200x100.png
   greyImage: /images/users/used_by_react.svg
   infoLink: https://reactjs.org
   pinned: true
+
 - caption: Jest
+  alexa: 45454
   image: /images/users/jest-200x100.png
   greyImage: /images/users/used_by_jest.svg
   infoLink: https://jestjs.io
   pinned: true
+
 - caption: Yarn
+  alexa: 30444
   image: /images/users/yarn-200x100.png
   greyImage: /images/users/used_by_yarn.svg
   infoLink: https://yarnpkg.com
   pinned: true
+
 - caption: Babel
+  alexa: 23933
   image: /images/users/babel-200x100.png
   greyImage: /images/users/used_by_babel.svg
   infoLink: https://babeljs.io
   pinned: true
+
 - caption: webpack
+  alexa: 23340
   image: /images/users/webpack-200x100.png
   greyImage: /images/users/used_by_webpack.svg
   infoLink: https://webpack.js.org/
   pinned: true
+
 - caption: Danger
+  alexa: 1320256
   image: /images/users/danger-200x100.png
   greyImage: /images/users/used_by_danger.svg
   infoLink: http://danger.systems/js/
   pinned: true
+
 - caption: Storybook
+  alexa: 179534
   image: /images/users/storybook-200x100.png
   greyImage: /images/users/used_by_storybook.svg
   infoLink: https://storybook.js.org/
   pinned: true
+
 - caption: ZEIT
+  alexa: 83398
   image: /images/users/zeit-200x100.png
   greyImage: /images/users/used_by_zeit.svg
   infoLink: https://zeit.co
+
 - caption: PayPal
+  alexa: 67
   image: /images/users/paypal-200x100.png
   infoLink: https://github.com/paypal/
+
 - caption: Hudl
+  alexa: 5265
   image: /images/users/hudl-200x100.png
   infoLink: http://hudl.github.io
+
 - caption: Transloadit
+  alexa: 356867
   image: /images/users/transloadit-200x100.png
   infoLink: https://transloadit.com
+
 - caption: Tradeshift
+  alexa: 180402
   image: /images/users/tradeshift-200x100.png
   infoLink: https://tradeshift.com
+
 - caption: Algolia
+  alexa: 31047
   image: /images/users/algolia-200x100.png
   infoLink: https://www.algolia.com
+
 - caption: IRESS
+  alexa: 222259
   image: /images/users/iress-200x100.png
   infoLink: https://www.iress.com
+
 - caption: Outreach
+  alexa: 24042
   image: /images/users/outreach-200x100.png
   infoLink: https://www.outreach.io
+
 - caption: Material-UI
+  alexa: 17395
   image: /images/users/materialui-200x100.png
   infoLink: http://www.material-ui.com/#/
+
 - caption: Wire
+  alexa: 90781
   image: /images/users/wire-200x100.png
   infoLink: https://wire.com
+
 - caption: MoonMail
+  alexa: 349325
   image: /images/users/moonmail-200x100.png
   infoLink: https://moonmail.io
+
 - caption: MONEI
+  alexa: 1073321
   image: /images/users/monei-200x100.png
   infoLink: https://monei.net
+
 - caption: Talkable
+  alexa: 110346
   image: /images/users/talkable-200x100.png
   infoLink: https://www.talkable.com
+
 - caption: Smooth Code
+  alexa: 1041445
   image: /images/users/smooth-code-200x100.png
   infoLink: https://www.smooth-code.com
+
 - caption: Webflow
+  alexa: 8798
   image: /images/users/webflow-200x100.png
   infoLink: https://webflow.com
+
 - caption: Eye Square
+  alexa: 331611
   image: /images/users/eyesquare-200x100.png
   infoLink: http://www.eye-square.com
+
 - caption: Charlie Tango
+  alexa: 6240928
   image: /images/users/charlietango-200x100.png
   infoLink: https://charlietango.dk
+
 - caption: EventsTag
+  alexa: 1434053
   image: /images/users/eventstag-200x100.png
   infoLink: https://eventstag.com
+
 - caption: ZIP.ch
+  alexa: 177846
   image: /images/users/zipch-200x100.png
   infoLink: https://zip.ch
+
 - caption: Nrwl
+  alexa: 412966
   image: /images/users/nrwl-200x100.png
   infoLink: https://nrwl.io
+
 - caption: codemix
+  alexa: 10343499
   image: /images/users/codemix-200x100.png
   infoLink: https://codemix.com
+
 - caption: HolidayCheck
+  alexa: 5157
   image: /images/users/holidaycheck-200x100.png
   infoLink: https://www.holidaycheck.de
+
 - caption: 7Span
+  alexa: 1820260
   image: /images/users/sevenspan-200x100.png
   infoLink: https://7span.com
+
 - caption: IDEATI
+  alexa: 13520771
   image: /images/users/ideati-200x100.png
   infoLink: https://www.ideati.net
+
 - caption: Mathrioshka
+  alexa: 15070329
   image: /images/users/mathrioshka-200x100.png
   infoLink: https://mathrioshka.ru
+
 - caption: Wingify
+  alexa: 296127
   image: /images/users/wingify-200x100.png
   infoLink: https://wingify.com
+
 - caption: N26
+  alexa: 11244
   image: /images/users/n26-200x100.png
   infoLink: https://n26.com
+
 - caption: Yelp
+  alexa: 203
   image: /images/users/yelp-200x100.png
   infoLink: https://www.yelp.com
+
 - caption: Hasura
+  alexa: 19135985
   image: /images/users/hasura-200x100.png
   infoLink: https://hasura.io
+
 - caption: Troops
+  alexa: 259486
   image: /images/users/troops-200x100.png
   infoLink: https://troops.ai
+
 - caption: HearthSim
+  alexa: 7873861
   image: /images/users/hearthsim-200x100.png
   infoLink: https://hearthsim.net
+
 - caption: Contiamo
+  alexa: 1516869
   image: /images/users/contiamo-200x100.png
   infoLink: https://www.contiamo.com
+
 - caption: GumGum
+  alexa: 33637
   image: /images/users/gumgum-200x100.png
   infoLink: https://gumgum.com
+
 - caption: National Hockey League (NHL)
+  alexa: 1610
   image: /images/users/nhl-200x100.png
   infoLink: https://www.nhl.com
+
 - caption: MongoDB
+  alexa: 5538
   image: /images/users/mongodb-200x100.png
   infoLink: https://www.mongodb.com/
+
 - caption: Discord
+  alexa: 167
   image: /images/users/discord-200x100.png
   infoLink: https://discordapp.com
+
 - caption: Shelf
+  alexa: 1080100
   image: /images/users/shelf-200x100.png
   infoLink: https://shelf.io
+
 - caption: Freelancer
+  alexa: 1279
   image: /images/users/freelancer-200x100.png
   infoLink: https://www.freelancer.com
+
 - caption: Hack Club
+  alexa: 1126241
   image: /images/users/hackclub-200x100.png
   infoLink: https://hackclub.com
+
 - caption: Escrow
+  alexa: 64054
   image: /images/users/escrow-200x100.png
   infoLink: https://www.escrow.com
+
 - caption: Lifesum
+  alexa: 193931
   image: /images/users/lifesum-200x100.png
   infoLink: https://lifesum.com
+
 - caption: React Native Firebase
+  alexa: 151175
   image: /images/users/rnfirebase-200x100.png
   infoLink: https://rnfirebase.io
+
 - caption: Brigad
+  alexa: 618281
   image: /images/users/brigad-200x100.png
   infoLink: https://brigad.co
+
 - caption: M6Web
+  alexa: 1080096
   image: /images/users/m6web-200x100.png
   infoLink: http://tech.m6web.fr
+
 - caption: LoyaltyLion
+  alexa: 182571
   image: /images/users/loyaltylion-200x100.png
   infoLink: https://loyaltylion.com/
+
 - caption: 3YOURMIND
+  alexa: 1319513
   image: /images/users/3yourmind.svg
   infoLink: https://www.3yourmind.com/
+
 - caption: Leesa Sleep
+  alexa: 68215
   image: /images/users/leesa.svg
   infoLink: https://leesa.com/
+
 - caption: ComputerBase
+  alexa: 5573
   image: /images/users/computerbase.svg
   infoLink: https://www.computerbase.de/
+
 - caption: Drizly
+  alexa: 29546
   image: /images/users/drizly-200x100.png
   infoLink: https://drizly.com/
+
 - caption: Jane
+  alexa: 31956
   image: /images/users/jane-200x100.png
   infoLink: https://jane.com/
+
 - caption: Metric.ai
+  alexa: 1830344
   image: /images/users/metric-ai-white.svg
   infoLink: https://www.metric.ai/
+
 - caption: HousingAnywhere
+  alexa: 51208
   image: /images/users/housinganywhere.svg
   infoLink: https://housinganywhere.com/
+
 - caption: CodeCarrot
+  alexa: 2763021
   image: /images/users/codecarrot.svg
   infoLink: https://www.codecarrot.net/
+
 - caption: Get on Board
+  alexa: 233377
   image: /images/users/getonboard-200x100.png
   infoLink: https://www.getonbrd.com/
+
 - caption: Assertible
+  alexa: 361420
   image: /images/users/assertible-200x100.png
   infoLink: https://assertible.com/
+
 - caption: Exponea
+  alexa: 158838
   image: /images/users/exponea.svg
   infoLink: https://exponea.com/
